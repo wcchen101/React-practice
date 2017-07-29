@@ -1,4 +1,4 @@
-# React-practice
+# Udacity-React-Lab
 React practice for Udacity React Nanodegree
 
 This repository is to show my practice for Udacity React Nanodegree.
