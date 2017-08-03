@@ -13,7 +13,7 @@ Contact-lists functionality:
 - Create contact function with back button and forwrd function using React Router
 
 #Quick view of this page:
-![Screenshot](contact-list.png)
+![Screenshot](contacts-list.png)
 ![Screenshot](contact-list-filter.png)
 ![Screenshot](add-contact.png)
 
