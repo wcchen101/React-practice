@@ -16,6 +16,7 @@ Contact-lists functionality:
 ![Screenshot](contacts-list.png)
 ![Screenshot](contact-list-filter.png)
 ![Screenshot](add-contact.png)
+![video](contactlist_demo.gif)
 
 
 This React Nanodegree is co-created by Udacity and React Training. If you want to learn more what content is covered in this React Nanodegree, please refer to the links: https://www.udacity.com/course/react-nanodegree--nd019
